@@ -2,7 +2,7 @@
 
 |Field|Type|Description
 |----|-----|---|
-|**Id**|str|Unique key
+|**Id**|String|Unique key
 |**Rls**|String|Номер релиза
 |**Project**|String|Проект Combbu
 |**Created**|Date|Дата создания записи
