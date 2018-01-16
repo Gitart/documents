@@ -24,8 +24,12 @@
 
 ## Reliase Protocol
 
+Использование :
+
+**rp.exe** PROJECT RLS SQLNAME ERR TYPE OWNER TASK 
+
 ```bat
-rp.exe PROJECT RLS SQLNAME ERR TYPE OWNER TASK 
+
 
 Где :
       PROJECT     -- код проекта
