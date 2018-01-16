@@ -48,7 +48,7 @@ rp.exe PROJECT RLS SQLNAME ERR TYPE OWNER TASK
 |**Path**|String|Путь к скрипту
 |**Size**|String|Размер скрипта
 |**Revizion**|String|Ревизии
-
+|**Lnk**|String|Линк на скрипт в SVN
 
 ## Status  
   
