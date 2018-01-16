@@ -59,6 +59,7 @@ rp.exe PROJECT RLS SQLNAME ERR TYPE OWNER TASK
 |**Er**|Скрипт завершен с ошибкой
 |**Ar**|Скрипт перенесен в архив
 |**Bl**|Заблокированный скрипт 
+|**Inv**|Не рабочий скрипт
 
 ## Тип файлов  
   
@@ -68,6 +69,9 @@ rp.exe PROJECT RLS SQLNAME ERR TYPE OWNER TASK
 |**trg**|Триггер
 |**prc**|Процедура
 |**pkb**|?
+|**dtl**|?
+|**pkh**|?
+
 
 
 
