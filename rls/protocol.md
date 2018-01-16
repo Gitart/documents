@@ -48,6 +48,7 @@ rp.exe PROJECT RLS SQLNAME ERR TYPE OWNER TASK
 |**Path**|String|Путь к скрипту
 |**Size**|String|Размер скрипта
 |**Revizion**|String|Ревизии
+|**Module**|String|Модуль
 |**Lnk**|String|Линк на скрипт в SVN
 
 ## Status  
@@ -58,4 +59,21 @@ rp.exe PROJECT RLS SQLNAME ERR TYPE OWNER TASK
 |**Er**|Скрипт завершен с ошибкой
 |**Ar**|Скрипт перенесен в архив
 |**Bl**|Заблокированный скрипт 
+
+## Тип файлов  
+  
+|Name|Description
+|----|-----|
+|**Sql**|Скрипт
+|**trg**|Триггер
+|**prc**|Процедура
+|**pkb**|?
+
+
+
+
+
+
+
+
 
