@@ -9,7 +9,7 @@
 |**Updated**|Date|Дата обновления записи
 |**Sql**|str|Имя запроса
 |**Status**|String|Статус (Ok,Er,Ar)
-|**Owner**|String|Bars
+|**Owner**|String|Developer
 |**Develop**|String|Разработчик
 |**Object**|String|Объект
 |**Comment**|String|Коментарии
