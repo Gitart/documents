@@ -21,7 +21,7 @@
 
 ## Status  
   
-|Name||Description
+|Name|Description
 |----|-----|
 |**Ok**|Удачно завершенный скрипт
 |**Er**|Скрипт завершен с ошибкой
